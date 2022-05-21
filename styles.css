@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+
+}
+
+.contenedor {
+    background-image: url(https://wallpapercave.com/uwp/uwp770203.gif);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    color: #000;
+    font-size: 200px;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+p {
+    font-size: xx-large;
+    padding: 15%;
+
+}
+
+button {
+    font-size: xx-large;
+    padding: 0.75em;
+
+}
+
+#yesBtn {
+    transform: translate(-100%,0);
+
+}
+
+#noBtn {
+    position: absolute;
+}
+
